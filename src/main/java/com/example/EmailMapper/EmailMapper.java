@@ -15,3 +15,4 @@ public interface EmailMapper {
     EmailEntity toEntity(EmailRequest dto);
     EmailResponse toResponse(EmailEntity entity);
 }
+//
